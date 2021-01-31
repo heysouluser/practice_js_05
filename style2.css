@@ -1,0 +1,9 @@
+img, div, button {
+   display: none;
+}
+* {
+   background: none;
+   color: black;
+   text-align: left;
+   font-family: serif;
+}
